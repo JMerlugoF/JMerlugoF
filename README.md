@@ -2,11 +2,11 @@
 
 <p>
 <br>
-😉 - My name is João, but you can call me Bh
+😉 - My name is João
 <br>
-🤓 - I'm an undergraduate student in Software Engineering.
+🤓 - I'm an undergraduate and master's student in Software Engineering.
 <br>
-🎂 - 23y
+🎂 - 22y
 <br>
 <p>
 
